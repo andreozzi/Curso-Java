@@ -32,7 +32,7 @@ public class Program {
 
 
         }
-        System.out.println(vect[0].getAge()< 16);
+
         double sumH = 0.0;
         for (Person person : vect) {
             sumH += person.getHeight();
